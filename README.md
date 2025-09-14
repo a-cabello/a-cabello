@@ -13,6 +13,4 @@
 <br><br>
 - I’m currently learning `Software Engineering` and `Cybersecurity`.
 - Always `learning new things`.
-- I’m currently open for a new `job opportunity`, this is Linkedin profile
-- You can visit [MY LINKEDIN].(https://www.linkedin.com/in/%C3%A1lvaro-cabello-de-los-cobos-6b7145294/).
-<br>
+- I’m open for a new `job opportunity`, this is Linkedin profile.(https://www.linkedin.com/in/%C3%A1lvaro-cabello-de-los-cobos-6b7145294/).
